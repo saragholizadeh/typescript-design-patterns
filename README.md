@@ -1,7 +1,31 @@
-# Learn Design Patterns in TypeScript 🚀
+<p align="center">
+  <img src="https://miro.medium.com/v2/1*6E461Nk_PAxezw5rvkZoxg.png" alt="Diagram" width="400">
+</p>
+
+# Learn Design Patterns in Typecript
 
 This project is my personal playground for **learning and practicing design patterns** using TypeScript.  
 I want to **understand where and how to use them in real-world scenarios**, and at the same time **share these examples** to help others learn too.
+
+
+<br>
+
+### 🎯 My Goal
+
+- Learn **how and when to apply design patterns** effectively.  
+- Build **realistic examples** that make the concepts clear.  
+- Share these examples so others can **learn faster and avoid common mistakes**.  
+
+<br>
+
+
+
+### 💡 Feedback Welcome
+
+If any **problem description or solution** is unclear, or you have suggestions to improve the examples, **please let me know**!  
+Your feedback will make this learning resource **better for everyone** :)
+
+<br>
 
 ---
 
@@ -38,22 +62,3 @@ Each folder represents a design pattern. Inside, you’ll find examples organize
 
 
 This way, you can **see both the “wrong” and the “better” approaches**, and understand why the clean one is preferred.
-
----
-<br>
-
-### 🎯 My Goal
-
-- Learn **how and when to apply design patterns** effectively.  
-- Build **realistic examples** that make the concepts clear.  
-- Share these examples so others can **learn faster and avoid common mistakes**.  
-
-<br>
-
----
-
-
-### 💡 Feedback Welcome
-
-If any **problem description or solution** is unclear, or you have suggestions to improve the examples, **please let me know**!  
-Your feedback will make this learning resource **better for everyone** :)
