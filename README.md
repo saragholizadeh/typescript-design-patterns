@@ -1,0 +1,59 @@
+# Learn Design Patterns in TypeScript 🚀
+
+This project is my personal playground for **learning and practicing design patterns** using TypeScript.  
+I want to **understand where and how to use them in real-world scenarios**, and at the same time **share these examples** to help others learn too.
+
+---
+
+### 📂 Project Structure
+
+Each folder represents a design pattern. Inside, you’ll find examples organized like this:
+
+```
+├── Factory
+│   ├── example-1
+│   │   ├── bad-code.ts
+│   │   ├── better-code.ts
+│   │   └── problem.md
+│   └── example-2
+│       ├── bad-code.ts
+│       ├── better-code.ts
+│       └── readme.md
+├── Singleton
+│   ├── example-1
+│   │   ├── bad-code.ts
+│   │   ├── good-code.ts
+│   │   └── problem.md
+│   └── example-2
+└── Strategy
+    ├── example-1
+    │   ├── bad-code.ts
+    │   ├── better-code.ts
+    │   └── problem.md
+    └── example-2
+        ├── bad-code.ts
+        ├── better-code.ts
+        └── problem.md
+```
+
+
+This way, you can **see both the “wrong” and the “better” approaches**, and understand why the clean one is preferred.
+
+---
+<br>
+
+### 🎯 My Goal
+
+- Learn **how and when to apply design patterns** effectively.  
+- Build **realistic examples** that make the concepts clear.  
+- Share these examples so others can **learn faster and avoid common mistakes**.  
+
+<br>
+
+---
+
+
+### 💡 Feedback Welcome
+
+If any **problem description or solution** is unclear, or you have suggestions to improve the examples, **please let me know**!  
+Your feedback will make this learning resource **better for everyone** :)
