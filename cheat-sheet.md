@@ -18,3 +18,6 @@ Don’t ask “how”, ask “which object?” - object type decision
 
 One instance, shared everywhere. - single shared instance
 
+## Adaptor
+
+Break the busness logic from convertion logic
