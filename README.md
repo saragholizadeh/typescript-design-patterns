@@ -24,30 +24,57 @@ Your feedback will make this learning resource better for everyone :)
 Each folder represents a design pattern. Inside, you’ll find examples organized like this:
 
 ```
-├── Factory
-│   ├── example-1
-│   │   ├── bad-code.ts
-│   │   ├── better-code.ts
-│   │   └── problem.md
-│   └── example-2
-│       ├── bad-code.ts
-│       ├── better-code.ts
-│       └── readme.md
-├── Singleton
-│   ├── example-1
-│   │   ├── bad-code.ts
-│   │   ├── good-code.ts
-│   │   └── problem.md
-│   └── example-2
-└── Strategy
-    ├── example-1
-    │   ├── bad-code.ts
-    │   ├── better-code.ts
-    │   └── problem.md
-    └── example-2
-        ├── bad-code.ts
-        ├── better-code.ts
-        └── problem.md
+.
+├── Behavioral
+│   ├── Observer
+│   │   └── example-1
+│   │       ├── bad-code.ts
+│   │       ├── better-code.ts
+│   │       └── scenario.md
+│   └── Strategy
+│       ├── example-1
+│       │   ├── bad-code.ts
+│       │   ├── better-code.ts
+│       │   └── problem.md
+│       └── example-2
+│           ├── bad-code.ts
+│           ├── better-code.ts
+│           └── problem.md
+├── Creational
+│   ├── Builder
+│   │   ├── example-1
+│   │   │   ├── bad-cod.ts
+│   │   │   ├── better-code.ts
+│   │   │   └── problem.md
+│   │   └── example-2
+│   │       ├── bad-code.ts
+│   │       ├── better-code.ts
+│   │       └── problem.md
+│   ├── Factory
+│   │   ├── example-1
+│   │   │   ├── bad-code.ts
+│   │   │   ├── better-code.ts
+│   │   │   └── problem.md
+│   │   └── example-2
+│   │       ├── bad-code.ts
+│   │       ├── better-code.ts
+│   │       └── readme.md
+│   └── Singleton
+│       ├── example-1
+│       │   ├── bad-code.ts
+│       │   ├── better-code.ts
+│       │   └── problem.md
+│       └── example-2
+│           ├── bad-code.ts
+│           ├── better-code.ts
+│           └── problem.md
+└── Structural
+    └── Adaptor
+        └── example-1
+            ├── bad-code.ts
+            ├── better-code.ts
+            └── scenario.md
+
 ```
 
 
