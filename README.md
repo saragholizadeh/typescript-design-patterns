@@ -24,8 +24,16 @@ Your feedback will make this learning resource better for everyone :)
 Each folder represents a design pattern. Inside, you’ll find examples organized like this:
 
 ```
-.
 ├── Behavioral
+│   ├── Chain of Responsibility
+│   │   ├── example-1
+│   │   │   ├── bad-code.ts
+│   │   │   ├── better-code.ts
+│   │   │   └── scenario.md
+│   │   └── example-2
+│   │       ├── bad-code.ts
+│   │       ├── better-code.ts
+│   │       └── scenario.md
 │   ├── Observer
 │   │   └── example-1
 │   │       ├── bad-code.ts
@@ -59,6 +67,15 @@ Each folder represents a design pattern. Inside, you’ll find examples organize
 │   │       ├── bad-code.ts
 │   │       ├── better-code.ts
 │   │       └── readme.md
+│   ├── Prototype
+│   │   ├── example-1
+│   │   │   ├── bad-cod.ts
+│   │   │   ├── better-code.ts
+│   │   │   └── problem.md
+│   │   └── example-2
+│   │       ├── bad-code.ts
+│   │       ├── better-code.ts
+│   │       └── problem.md
 │   └── Singleton
 │       ├── example-1
 │       │   ├── bad-code.ts
@@ -69,11 +86,39 @@ Each folder represents a design pattern. Inside, you’ll find examples organize
 │           ├── better-code.ts
 │           └── problem.md
 └── Structural
-    └── Adaptor
-        └── example-1
+    ├── Adaptor
+    │   └── example-1
+    │       ├── bad-code.ts
+    │       ├── better-code.ts
+    │       └── scenario.md
+    ├── Decorator
+    │   ├── example-1
+    │   │   ├── bad-code.ts
+    │   │   ├── better-code.ts
+    │   │   └── scenario.md
+    │   └── example-2
+    │       ├── bad-code.ts
+    │       ├── better-code.ts
+    │       └── scenario.md
+    ├── Facade
+    │   ├── example-1
+    │   │   ├── bad-code.ts
+    │   │   ├── better-code.ts
+    │   │   └── scenario.md
+    │   └── example-2
+    │       ├── bad-code.ts
+    │       ├── better-code.ts
+    │       └── scenario.md
+    └── Proxy
+        ├── example-1
+        │   ├── bad-code.ts
+        │   ├── better-code.ts
+        │   └── scenario.md
+        └── example-2
             ├── bad-code.ts
             ├── better-code.ts
             └── scenario.md
+
 
 ```
 
