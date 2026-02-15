@@ -1,4 +1,4 @@
-# 🎯 Exercise: Logistics System
+# Exercise: Logistics System
 
 ## Scenario
 Imagine you are building a **logistics system**. The program should support multiple transport methods:
